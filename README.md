@@ -3,7 +3,7 @@ Small Node.js app that automatically claims free prizes from [the Profi app](htt
 
 ###  Usage
 Clone the repository, install the dependencies and then create a file named `usernames.json` with the following format
-```json
+```js
 [ // array containing username groups
     [ // first username group
         "password", // the first element is the password that will be used for the usernames below
